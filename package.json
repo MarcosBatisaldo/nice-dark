@@ -1,0 +1,31 @@
+{
+  "name": "nice-dark",
+  "description": "Nice dark mode for your VSCode",
+  "displayerName": "Nice Dark Theme",
+  "version": "1.0.0",
+  "icon": "Assets/icons/nice-dark-icon.png",
+  "keywords": ["theme", "dark", "dark-mode", "minimal", "MarcosBatisaldo", "Batisaldo"],
+  "publisher": "MarcosBatisaldo",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nice Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "themes/nice-dark-color-theme.json"
+
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package --no-yarn",
+    "publish": "vsce publish --no-yarn"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vsce": "^2.14.0"
+  }
+}
