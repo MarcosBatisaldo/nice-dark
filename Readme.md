@@ -12,12 +12,12 @@
   > All images use Cascadia Code font
   
   ### New File
-  ![New File](https://github.com/MarcosBatisaldo/nice-dark/blob/5ddc00417dca91d62d8cb4163e42a1c66c029f5a/ExampleImgs/New-file.png)
+  ![New File](https://raw.githubusercontent.com/MarcosBatisaldo/nice-dark/main/ExampleImgs/New-file.png)
 
   ### HTML File Purple Tag (wip)
-  ![HTML Purple Example](https://github.com/MarcosBatisaldo/nice-dark/blob/5ddc00417dca91d62d8cb4163e42a1c66c029f5a/ExampleImgs/htmlExample.png)
+  ![HTML Purple Example](https://raw.githubusercontent.com/MarcosBatisaldo/nice-dark/main/ExampleImgs/htmlExample.png)
   
   ### JavaScript File
-  ![JavaScript File Example](https://github.com/MarcosBatisaldo/nice-dark/blob/5ddc00417dca91d62d8cb4163e42a1c66c029f5a/ExampleImgs/jsExample.png)
+  ![JavaScript File Example](https://raw.githubusercontent.com/MarcosBatisaldo/nice-dark/main/ExampleImgs/jsExample.png)
   
  
