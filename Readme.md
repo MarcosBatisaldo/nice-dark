@@ -1,4 +1,4 @@
-# Nice-Theme v1.1.0
+# Nice-Theme v1.1.2
   ### A simple and clean theme for your vscode
   
   - Nice Dark Theme
