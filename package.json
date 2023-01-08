@@ -2,7 +2,7 @@
   "name": "nice-dark",
   "description": "Nice dark mode for your VSCode",
   "displayerName": "Nice Dark Theme",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "icon": "Assets/icons/nice-dark-icon.png",
   "keywords": ["theme", "dark", "dark-mode", "minimal", "MarcosBatisaldo", "Batisaldo", "dark-editor", "clean"],
   "publisher": "MarcosBatisaldo",
